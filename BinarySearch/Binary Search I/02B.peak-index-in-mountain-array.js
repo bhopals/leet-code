@@ -62,3 +62,15 @@ var peakIndexInMountainArrayB = function (arr) {
 // arr is guaranteed to be a mountain array.
 
 // Follow up: Finding the O(n) is straightforward, could you find an O(log(n)) solution?
+
+// **Algorithm
+// Set low to 0.
+// Set high to the length of array minus 1.
+// Declare a variable mid.
+// Set mid = low + ( high – low ) / 2.
+// While low < high:
+// If array[ mid ] > = array [ mid + 1].
+// then high = mid.
+// Else
+// then low = mid + 1.
+// Return low.
