@@ -29,3 +29,12 @@ Constraints:
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109
 ```
+
+#### Solution
+
+```
+var containsDuplicate = function (nums) {
+  return Array.from(new Set(nums)).length !== nums.length;
+};
+
+```

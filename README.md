@@ -6,9 +6,10 @@
 - Space Complexity
 
 - https://leetcode.com/study-plan/binary-search/?progress=qwy8vq3
-  - 35
-  - 367
-  - 852
-  - 1385
-  - 69
-  - 744
+
+- REFERENCES
+
+  - Git Book - https://app.gitbook.com/s/50SygSPzQ48mdyejojMi/
+
+- Deployed Git Book
+  - https://app.gitbook.com/s/Kqvwpre5Egnlx4sTBxbn/readme
