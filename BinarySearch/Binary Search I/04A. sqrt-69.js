@@ -19,9 +19,9 @@ var mySqrt = function (x) {
 };
 
 console.log("16=== 4 >>", mySqrt(16));
-console.log("12=== 3 >>", mySqrt(12));
-console.log("8=== 2 >>", mySqrt(8));
-console.log("4=== 2 >>", mySqrt(4));
-console.log("3=== 1 >>", mySqrt(3));
-console.log("1=== 1 >>", mySqrt(1));
-console.log("0=== 0 >>", mySqrt(0));
+// console.log("12=== 3 >>", mySqrt(12));
+// console.log("8=== 2 >>", mySqrt(8));
+// console.log("4=== 2 >>", mySqrt(4));
+// console.log("3=== 1 >>", mySqrt(3));
+// console.log("1=== 1 >>", mySqrt(1));
+// console.log("0=== 0 >>", mySqrt(0));
